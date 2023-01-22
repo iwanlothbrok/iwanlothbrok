@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Asp.Net, JavaScript**
 
-- 💬 Ask me about **Asp.Net**
-
 - 📫 How to reach me **iwaniwanow0345@gmail.com**
 
 - ⚡ My hobbies are **Football, Chess, Boxing, and other**
