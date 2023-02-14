@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan Ivanov</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">.NET Developer</h3>
 
 - 🔭 I’m currently working on [Book Experience Blog](https://github.com/iwanlothbrok/Book-Experience-Blog-ASP.NET-CORE)
 
-- 🌱 I’m currently learning **Asp.Net, JavaScript**
+- 🌱 I’m currently learning **ASP.NET, JavaScript**
 
 - 📫 How to reach me **iwaniwanow0345@gmail.com**
 
