@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Book Experience Blog](https://github.com/iwanlothbrok/Book-Experience-Blog-ASP.NET-CORE)
 
-- 🌱 I’m currently learning **ASP.NET, JavaScript**
+- 🌱 I’m currently learning **ASP.NET, JavaScript, C++**
 
 - 📫 How to reach me **iwaniwanow0345@gmail.com**
 
